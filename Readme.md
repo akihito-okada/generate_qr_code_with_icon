@@ -1,4 +1,4 @@
-## golangをインストール
+## goをインストール
 ### 参考: https://qiita.com/Noah0x00/items/63e024f9b5a27276401b
 
 ```
