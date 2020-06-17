@@ -7,10 +7,10 @@ $ go version
 ```
 
 ## qrlogoをインストール
-### 参考: https://github.com/divan/qrlogo
+### 参考: https://github.com/akihito-okada/qrlogo
 
 ```
-$ go get github.com/divan/qrlogo/cmd/qrlogo
+$ go get github.com/akihito-okada/qrlogo/cmd/qrlogo
 ```
 
 ## 環境変数を設定
